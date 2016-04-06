@@ -1,16 +1,16 @@
 {
-  "name": "zf5_project",
+  "name": "lakehub_offical_website",
   "description": "",
   "version": "0.0.1",
   "license": "",
-  "homepage": "",
+  "homepage": "http://www.lakehub.co.ke",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "sigu",
+    "email": "sigumagwa@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lakehub/site-landing-page"
   },
   "devDependencies": {
     "load-grunt-tasks": "~3.3.0",
