@@ -28,12 +28,15 @@ instructions](http://2buntu.com/articles/1459/keeping-your-forked-repo-synced-wi
 When you're working on your project immediately after having it in your
 local repo, move to the root of the app.
 
-1. Install bower components `bower install`
-2. To start development run `grunt` from the project directory
-3. Run `grunt publish` to get production ready code which will be in the dist
-	 directory
-4. To see how the website will be in production `grunt publish` then run
-	 production server as `grunt server-dist`
+NB: You should have node and ruby installed in your system
+
+1. Install node modules `node install`
+2. The project uses compass so install the compass ruby gem `gem install compass`. This will land you in trouble if its not installed, grunt will keep throwing unexplained error
+3. To start development run `grunt` from the project directory
+4. Run `grunt publish` to get production ready code which will be in the dist
+         directory
+5. To see how the website will be in production `grunt publish` then run
+         production server as `grunt server-dist`
 ##### For more information about grunt tasks for zf5 genetator visit its [github page](https://github.com/juliancwirko/generator-zf5)
 
 NB: If you are familiar with grunt then you can change the above commands to
