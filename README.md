@@ -5,7 +5,7 @@ also been included. It is purely html, js and css (SCSS). No Ruby or other backe
 knowledge required.
 
 
-## Get started
+## Getting started
 
 This project has been generated using [yeoman](http://yeoman.io) with [foundation-5 generator](https://github.com/juliancwirko/generator-zf5). It uses SASS for stylesheet
 
@@ -23,12 +23,12 @@ If you’d like to add features (or bug fixes) to improve the example applicatio
 To keep you forked repo with the upstream repo read through [this for
 instructions](http://2buntu.com/articles/1459/keeping-your-forked-repo-synced-with-the-upstream-source/)
 
-## Quickstart
+## Quickstart-Guide
 
 When you're working on your project immediately after having it in your
 local repo, move to the root of the app.
 
-NB: You should have node and ruby installed in your system
+NB: You should have ode and ruby installed in your system
 
 1. Install node modules `node install`
 2. The project uses compass so install the compass ruby gem `gem install compass`. This will land you in trouble if its not installed, grunt will keep throwing unexplained error
